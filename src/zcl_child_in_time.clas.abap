@@ -7,6 +7,7 @@ public section.
 protected section.
 private section.
 
+  constants GV_KEYBOARDS type STRING value 'Jon Lord' ##NO_TEXT.
   constants GV_GUITAR type STRING value 'Ritchie Blackmore' ##NO_TEXT.
 
   methods GET_1ST_VERSE
